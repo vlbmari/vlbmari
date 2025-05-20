@@ -1,7 +1,7 @@
 ## Hello! I'm Mariana Lourenço
 
 ### Currently studying
-[ASP.Net](https://img.shields.io/badge/Asp.NET-blue?style=social&logo=white&logoColor=blue&logoSize=124.5px&labelColor=black&color=white)
+[ASP.Net](https://img.shields.io/badge/Asp.NET-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
