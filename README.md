@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Hello!%20I'm%20Mariana%20Louren%C3%A7o-%23ffdcad?style=for-the-badge&logo=codecrafters&logoColor=white&logoSize=auto"       width="400">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Mariana%20Louren%C3%A7o-%23ffdcad?style=flat-square&logo=gitlab&logoColor=%23ffdcad&logoSize=auto&label=Hello!%20I'm&labelColor=%238c8c8c" width="400">
   <p>Developer enthusiastic about technology, development, and automation.<p>
   <strong>Contact me</strong>
 </div>
