@@ -39,10 +39,9 @@
   <img src="https://img.shields.io/badge/C%20Sharp-%23378BBA?style=for-the-badge&logo=sharp&logoColor=white&logoSize=auto" alt="C-Sharp"/>
   
   <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white&logoSize=auto" alt=".NET"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/dotNet-%23512BD4?style=for-the-badge&logo=dotnet" alt=".NET">
   <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white&logoSize=auto" alt="Angular"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-
 
   <!-- Dados / API -->
   <img src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto" alt="MYSQL"/>
@@ -55,7 +54,7 @@
 
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/n8n-EB5175?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/n8n-EB5175?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N"/>
 </p>
 
 
