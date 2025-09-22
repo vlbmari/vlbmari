@@ -25,8 +25,8 @@
 ### 📊 Statistics GitHub
 
 <div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=vlbmari&show_icons=true&theme=dark&cache_seconds=120" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbmari&layout=compact&theme=dark&cache_seconds=120" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vlbmari&show_icons=true&theme=dark&cache_seconds=120" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbmari&layout=compact&theme=dark&cache_seconds=120" />
 </div>
 
 ---
