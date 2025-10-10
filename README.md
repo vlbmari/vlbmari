@@ -21,14 +21,14 @@
   - **Bachelor of Software Engineering** | Estácio de Sá
 
 ---
-
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 ### 📊 Statistics GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vlbmari&show_icons=true&theme=dark&cache_seconds=120" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbmari&layout=compact&theme=dark&cache_seconds=120" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vlbmari&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbmari&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
-
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 ---
 
 ### 🛠️ Most used technologies
