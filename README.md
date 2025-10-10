@@ -29,6 +29,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbmari&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 <img src="./.github\assets\lineBar01.png" width="100%" height="8px"/>
+
 ---
 
 ### 🛠️ Most used technologies
@@ -58,7 +59,4 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/n8n-EB5175?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N"/>
 </p>
-
-
----
 
