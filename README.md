@@ -1,5 +1,6 @@
 <div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/MarianaLouren%C3%A7o-s?style=for-the-badge&logo=gitlab&logoColor=%2373d7f8&label=Hello!%20I'm%20&labelColor=%238c8c8c&color=%23e82dff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Mariana%20Louren%C3%A7o%20-color%20%23491757?style=for-the-badge&logo=github&logoColor=%23161A36&label=Hello%2C%20I'm%20&labelColor=%239E95B7&color=%23161A36">
+
   <p>Developer enthusiastic about technology, development, and automation.<p>
   <strong>Contact me</strong>
 </div>
@@ -17,8 +18,69 @@
 ---
 
 ### 🎓 Education
-  - **Technical Degree in Systems Development** | SENAI
-  - **Bachelor of Software Engineering** | Estácio de Sá
+- **Technical Degree in Systems Development** | SENAI | January 2023 - December 2024 - Completed ✅
+- **Bachelor of Software Engineering** | Estácio de Sá | January 2025 - December 2029 - In Progress ⏳
+
+
+## 🏆 My Certifications 
+
+<details>
+<summary> 🎓 **Technical Degree in Systems Development** </summary>
+
+- **Institution:** SENAI
+- **Completion:** December/2024
+- **Highlights:** Software analysis, design, and development.
+  <details>
+    <summary> **Projects** </summary>
+    ➺ **NOTEROOM: Web Platform for Grade Distribution.**
+    Automates grade distribution, facilitating class and activity management for teachers, reducing errors, and increasing efficiency.
+    Available via browser, promoting greater accuracy and transparency in the evaluation process.
+    ➺ **PRIME EVENTS: Web system for event management.**
+    Application that facilitates event organization, with emphasis on presence confirmation, ensuring greater accuracy and efficiency in managing participants and activities.
+    ➺ **IOT: RFID System for Attendance Registration.**
+    Uses React, Node.js, MySQL, and MQTT for IoT, allowing person registration, real-time attendance logging, and integration with IoT devices, ensuring security and efficiency in event monitoring.
+  </details>
+
+</details>
+
+<details>
+<summary> **Certification: AI Agent Immersion (Imersão Dev Agentes de IA)** </summary>
+
+- **Institution:** Alura
+- **Skills Acquired:** AI Agent · Generative AI · Prompt Engineering · LangChain · LangGraph · Python · Google Gemini
+- **Verification:** <a href="https://cursos.alura.com.br/immersion/certificate/72c6ad74-e5af-4477-9fa8-239c7a158a54?lang" target="_blank">View Certificate</a>
+- **Date:** October 22, 2025
+
+</details>
+
+<details>
+<summary> **Certification: AI Immersion 4th Edition (Imersão IA 4ª Edição)** </summary>
+
+- **Institution:** Alura
+- **Skills Acquired:** Multimodal AI · AI Agent · Generative AI · Prompt Engineering · Google Gemini · N8N
+- **Verification:** <a href="https://cursos.alura.com.br/immersion/certificate/ef3c3810-fc10-4bd2-84ef-efb7b9852252?lang=pt_BR" target="_blank">View Certificate</a>
+- **Date:** October 20, 2025
+
+</details>
+
+<details>
+<summary> **Certification: Master AI with Google Gemini (Domina la IA con Google Gemini)** </summary>
+
+- **Institution:** Google
+- **Skills Acquired:** Multimodal AI · Generative AI · Google Gemini
+- **Date:**  October 18, 2025
+
+</details>
+
+<details>
+<summary> **Certification: Fundamentals of Generative AI (Fundamentos de IA Generativa)** </summary>
+
+- **Institution:** Universia
+- **Skills Acquired:** Multimodal AI · Generative AI · Prompt Engineering · Google Gemini
+- **Verification:** <a href="https://hermes.dio.me/certificates/YXU7SPPG.pdf" target="_blank">View Certificate</a>
+- **Date:** October 15, 2025
+
+</details>
 
 ---
 
