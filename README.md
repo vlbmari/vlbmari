@@ -17,34 +17,34 @@
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 - **Technical Degree in Systems Development** | SENAI | January 2023 - December 2024 - Completed ✅
 - **Bachelor of Software Engineering** | Estácio de Sá | January 2025 - December 2029 - In Progress ⏳
 
 
-## 🏆 My Certifications 
+### 🏆 My Certifications 
 
 <details>
-<summary> 🎓 **Technical Degree in Systems Development** </summary>
+<summary>🎓 Technical Degree in Systems Development </summary>
 
 - **Institution:** SENAI
 - **Completion:** December/2024
 - **Highlights:** Software analysis, design, and development.
   <details>
-    <summary> **Projects** </summary>
-    ➺ **NOTEROOM: Web Platform for Grade Distribution.**
+    <summary> Projects </summary>
+    ➺ NOTEROOM: Web Platform for Grade Distribution.
     Automates grade distribution, facilitating class and activity management for teachers, reducing errors, and increasing efficiency.
     Available via browser, promoting greater accuracy and transparency in the evaluation process.
-    ➺ **PRIME EVENTS: Web system for event management.**
+    ➺ PRIME EVENTS: Web system for event management.
     Application that facilitates event organization, with emphasis on presence confirmation, ensuring greater accuracy and efficiency in managing participants and activities.
-    ➺ **IOT: RFID System for Attendance Registration.**
+    ➺ IOT: RFID System for Attendance Registration.
     Uses React, Node.js, MySQL, and MQTT for IoT, allowing person registration, real-time attendance logging, and integration with IoT devices, ensuring security and efficiency in event monitoring.
   </details>
 
 </details>
 
 <details>
-<summary> **Certification: AI Agent Immersion (Imersão Dev Agentes de IA)** </summary>
+<summary> Certification: AI Agent Immersion (Imersão Dev Agentes de IA) </summary>
 
 - **Institution:** Alura
 - **Skills Acquired:** AI Agent · Generative AI · Prompt Engineering · LangChain · LangGraph · Python · Google Gemini
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary> **Certification: AI Immersion 4th Edition (Imersão IA 4ª Edição)** </summary>
+<summary> Certification: AI Immersion 4th Edition (Imersão IA 4ª Edição) </summary>
 
 - **Institution:** Alura
 - **Skills Acquired:** Multimodal AI · AI Agent · Generative AI · Prompt Engineering · Google Gemini · N8N
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-<summary> **Certification: Master AI with Google Gemini (Domina la IA con Google Gemini)** </summary>
+<summary> Certification: Master AI with Google Gemini (Domina la IA con Google Gemini) </summary>
 
 - **Institution:** Google
 - **Skills Acquired:** Multimodal AI · Generative AI · Google Gemini
@@ -73,7 +73,7 @@
 </details>
 
 <details>
-<summary> **Certification: Fundamentals of Generative AI (Fundamentos de IA Generativa)** </summary>
+<summary> Certification: Fundamentals of Generative AI (Fundamentos de IA Generativa) </summary>
 
 - **Institution:** Universia
 - **Skills Acquired:** Multimodal AI · Generative AI · Prompt Engineering · Google Gemini
@@ -82,9 +82,7 @@
 
 </details>
 
----
-
-### 📊 Statistics GitHub
+## 📊 Statistics GitHub
 <img src="./.github\assets\lineBar01.png" width="100%" height="8px"/>
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vlbmari&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
@@ -92,9 +90,7 @@
 </div>
 <img src="./.github\assets\lineBar01.png" width="100%" height="8px"/>
 
----
-
-### 🛠️ Most used technologies
+## 🛠️ Most used technologies
 
 <p align="center">
   <!-- Linguagens -->
