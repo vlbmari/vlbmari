@@ -29,9 +29,9 @@
 
 - **Institution:** SENAI
 - **Completion:** December/2024
-- **Highlights:** Software analysis, design, and development.
+- **Highlights:** Software analysis, design, and development.<br><br>
   <details>
-    <summary> Projects </summary>
+    <summary> - <strong>Projects<strong></summary>
     ➺ NOTEROOM: Web Platform for Grade Distribution.<br>
     Automates grade distribution, facilitating class and activity management for teachers, reducing errors, and increasing efficiency.
     Available via browser, promoting greater accuracy and transparency in the evaluation process.<br><br>
