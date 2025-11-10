@@ -32,12 +32,12 @@
 - **Highlights:** Software analysis, design, and development.
   <details>
     <summary> Projects </summary>
-    ➺ NOTEROOM: Web Platform for Grade Distribution.
+    ➺ NOTEROOM: Web Platform for Grade Distribution.<br>
     Automates grade distribution, facilitating class and activity management for teachers, reducing errors, and increasing efficiency.
-    Available via browser, promoting greater accuracy and transparency in the evaluation process.
-    ➺ PRIME EVENTS: Web system for event management.
-    Application that facilitates event organization, with emphasis on presence confirmation, ensuring greater accuracy and efficiency in managing participants and activities.
-    ➺ IOT: RFID System for Attendance Registration.
+    Available via browser, promoting greater accuracy and transparency in the evaluation process.<br><br>
+    ➺ PRIME EVENTS: Web system for event management.<br>
+    Application that facilitates event organization, with emphasis on presence confirmation, ensuring greater accuracy and efficiency in managing participants and activities.<br><br>
+    ➺ IOT: RFID System for Attendance Registration.<br>
     Uses React, Node.js, MySQL, and MQTT for IoT, allowing person registration, real-time attendance logging, and integration with IoT devices, ensuring security and efficiency in event monitoring.
   </details>
 
