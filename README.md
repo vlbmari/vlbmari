@@ -85,8 +85,8 @@
 ## 📊 Statistics GitHub
 <img src="./.github\assets\lineBar01.png" width="100%" height="8px"/>
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vlbmari&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbmari&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vlbmari&show_icons=true&theme=buefy" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andradmarcel&layout=compact&theme=shades-of-purple" />
 </div>
 <img src="./.github\assets\lineBar01.png" width="100%" height="8px"/>
 
